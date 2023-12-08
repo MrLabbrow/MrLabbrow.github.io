@@ -1,32 +1,32 @@
-body{
-    background-color: rgb(216, 233, 248);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-family: 'Poppins', sans-serif;
+body {
+  background-color: rgb(216, 233, 248);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Poppins", sans-serif;
 }
-a{
-    text-decoration: none;
-    color: black;
+a {
+  text-decoration: none;
+  color: black;
 }
-.container{
-    background-color: white;
-    height: 80vh;
-    width: 500px;
-    margin-top: 20px;
-    border-radius: 10px;
-    box-shadow: 1px 1px 20px 0px rgb(171, 242, 255);
+.container {
+  background-color: white;
+  height: 80vh;
+  width: 500px;
+  margin-top: 20px;
+  border-radius: 10px;
+  box-shadow: 1px 1px 20px 0px rgb(171, 242, 255);
 }
-.box{
-    /* display: flex;
+.box {
+  /* display: flex;
     justify-content: center;
     align-items: center; */
 
-    display: grid;
-    grid-template-columns: 200px 40px;
-    align-items: center;
-    justify-content: space-around;
+  display: grid;
+  grid-template-columns: 200px 40px;
+  align-items: center;
+  justify-content: space-around;
 }
-.GitHub{
-    margin: 0px 10px;
+.GitHub {
+  margin: 0px 10px;
 }
